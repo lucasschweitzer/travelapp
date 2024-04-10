@@ -6,7 +6,7 @@ const Home = () =>{
     return(
      <SafeAreaView>
         <View>
-            <Title text="My first component with Git"/>
+            <Title text="My first component with Git basic branch"/>
         </View>
      </SafeAreaView>   
     )
